@@ -131,22 +131,6 @@ Model performance is evaluated using:
 
 ---
 
-# Repository Structure
-
-```bash
-project/
-│
-├── dataset/
-├── outputs/
-├── splits/
-│
-├── ablation_v2.ipynb
-├── architecture_diagram.png
-└── README.md
-```
-
----
-
 # Installation
 
 ```bash
